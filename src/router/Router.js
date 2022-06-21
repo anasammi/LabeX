@@ -11,7 +11,7 @@ import TripDetailsPage from '../pages/TripDetailsPage'
 export default function Router() {
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
             <Route exact path='/' element={<HomePage/>}/>
             <Route exact path='/trips/list' element={<ListTripsPage/>}/>
