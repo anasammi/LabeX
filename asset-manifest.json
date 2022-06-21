@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/LabeX/static/js/main.1847646a.js",
-    "static/media/star.jpg": "/LabeX/static/media/star.f4cd6c252d06099917f7.jpg",
-    "static/media/earth.jpg": "/LabeX/static/media/earth.ef6d126732c6bf1c42e3.jpg",
-    "index.html": "/LabeX/index.html",
-    "main.1847646a.js.map": "/LabeX/static/js/main.1847646a.js.map"
+    "main.js": "/labex/static/js/main.0d4743ad.js",
+    "static/media/star.jpg": "/labex/static/media/star.f4cd6c252d06099917f7.jpg",
+    "static/media/earth.jpg": "/labex/static/media/earth.ef6d126732c6bf1c42e3.jpg",
+    "index.html": "/labex/index.html",
+    "main.0d4743ad.js.map": "/labex/static/js/main.0d4743ad.js.map"
   },
   "entrypoints": [
-    "static/js/main.1847646a.js"
+    "static/js/main.0d4743ad.js"
   ]
 }
